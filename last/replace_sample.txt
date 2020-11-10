@@ -1,0 +1,6 @@
+File	Before	After
+sample_160069.json	"result": ["kr"]"	"result": ["en"]
+sample_160069.json	{"classID":"b65c4681-df22-433f-b550-4694f3d31b2d","name":"kr","count":1}	{"classID":"bb9252f9-1be5-4f5e-b16f-ab9b6485b21a","name":"en","count":1}
+sample_160069.json	"result":["achromatic"]	"result":["yellow"]
+sample_160069.json	{"classID":"a0b9d38d-529d-485c-b3f5-3d57ad814c89","name":"achromatic","count":1}	{"classID":"245ca023-1254-42b0-87cd-e9bced3ae0a0","name":"yellow","count":1}
+sample_160069.json	{"classID":"e71bffdc-5e17-4270-8daa-407f8e12d21c","name":" text","count":1},	
